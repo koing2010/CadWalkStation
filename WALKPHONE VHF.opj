@@ -1,0 +1,37 @@
+(ExpressProject "WALKPHONE VHF"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\walkphone vhf.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\walkphone vhf.dsn")
+      (Path "Design Resources" ".\walkphone vhf.dsn" "walkphone VHF.SchDoc")
+      (Select "Design Resources" ".\walkphone vhf.dsn" "walkphone VHF.SchDoc"
+         "walkphone VHF.SchDoc"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 633"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1625 52 525")
+        (Scroll "-72 185")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "E:\CAD2DXP\WALKPHONE VHF.DSN")
+      (Schematic "walkphone VHF.SchDoc")
+      (Page "walkphone VHF.SchDoc")))
+  (MPSSessionName "kon")
+  (PartMRUSelector))
