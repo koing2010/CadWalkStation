@@ -27,10 +27,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1625 52 525")
-        (Scroll "-72 185")
-        (Zoom "50")
+        (Scroll "313 1681")
+        (Zoom "132")
         (Occurrence "/"))
-      (Path "E:\CAD2DXP\WALKPHONE VHF.DSN")
+      (Path
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
       (Schematic "walkphone VHF.SchDoc")
       (Page "walkphone VHF.SchDoc")))
   (MPSSessionName "kon")
