@@ -1,0 +1,23 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jul 16 16:56:07 2018
+\t (00:00:02)         Host=DESKTOP-S7SCATP User=kon Pid=2724 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/my jinan doc/BJ reference doc/walkPhoneRef/CadWalkePhoneV4/layout/TalkeStation.brd
+\i (00:00:05) trapsize 8343
+\i (00:00:05) trapsize 8547
+\i (00:00:05) trapsize 9029
+\i (00:00:05) trapsize 9248
+\i (00:00:05) trapsize 129188
+\i (00:00:05) placementedit 
+\i (00:00:10) opencd 'E:/my jinan doc/BJ reference doc/walkPhoneRef/CadWalkePhoneV4/layout/TalkeStation.brd' 
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 8754
+\d (00:00:10) Design opened: E:/my jinan doc/BJ reference doc/walkPhoneRef/CadWalkePhoneV4/layout/TalkeStation.brd
+\i (00:00:10) placementedit 
+\i (00:00:14) opencd 'E:/doc space/30 curtain/schematic/C2WPCB1.brd' 
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 7491
+\t (00:00:15)     Journal end - Mon Jul 16 16:56:19 2018

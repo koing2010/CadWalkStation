@@ -2,12 +2,15 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File "e:\my jinan doc\bj reference doc\cadlib\sch_lib\walkephone.olb"
+        (Type "Schematic Library")))
     (NoModify)
     (File ".\walkphone vhf.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
@@ -15,8 +18,8 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\walkphone vhf.dsn")
       (Path "Design Resources" ".\walkphone vhf.dsn" "walkphone VHF.SchDoc")
-      (Select "Design Resources" ".\walkphone vhf.dsn" "walkphone VHF.SchDoc"
-         "walkphone VHF.SchDoc"))
+      (Path "Design Resources" ".\walkphone vhf.dsn" "Design Cache")
+      (Select "Design Resources" ".\walkphone vhf.dsn" "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -27,12 +30,44 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1625 52 525")
-        (Scroll "313 1681")
-        (Zoom "132")
+        (Scroll "0 154")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
+      (Schematic "walkphone VHF.SchDoc")
+      (Page "PowerControl"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1435 156 629")
+        (Scroll "0 747")
+        (Zoom "68")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
       (Schematic "walkphone VHF.SchDoc")
       (Page "walkphone VHF.SchDoc")))
+  (PartMRUSelector
+    (MicroSDCard
+      (FullPartName "MicroSDCard.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (FB
+      (FullPartName "FB.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (LM78xxx
+      (FullPartName "LM78xxx.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (TDA2822
+      (FullPartName "TDA2822.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0")))
   (MPSSessionName "kon")
-  (PartMRUSelector))
+  (ISPCBBASICLICENSE "false"))
