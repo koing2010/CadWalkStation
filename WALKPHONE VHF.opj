@@ -16,10 +16,17 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\walkphone vhf.dsn")
-      (Path "Design Resources" ".\walkphone vhf.dsn" "walkphone VHF.SchDoc")
-      (Path "Design Resources" ".\walkphone vhf.dsn" "Design Cache")
-      (Select "Design Resources" ".\walkphone vhf.dsn" "Design Cache"))
+      (Path "Design Resources"
+         "e:\my jinan doc\bj reference doc\walkphoneref\cadwalkephonev4\walkphone vhf.dsn")
+      (Path "Design Resources"
+         "e:\my jinan doc\bj reference doc\walkphoneref\cadwalkephonev4\walkphone vhf.dsn"
+         "walkphone VHF.SchDoc")
+      (Path "Design Resources"
+         "e:\my jinan doc\bj reference doc\walkphoneref\cadwalkephonev4\walkphone vhf.dsn"
+         "Design Cache")
+      (Select "Design Resources"
+         "e:\my jinan doc\bj reference doc\walkphoneref\cadwalkephonev4\walkphone vhf.dsn"
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -30,8 +37,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1625 52 525")
-        (Scroll "0 154")
-        (Zoom "63")
+        (Scroll "-177 -2")
+        (Zoom "35")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
@@ -41,14 +48,24 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1435 156 629")
-        (Scroll "0 747")
-        (Zoom "68")
+        (Scroll "1534 1511")
+        (Zoom "136")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
       (Schematic "walkphone VHF.SchDoc")
       (Page "walkphone VHF.SchDoc")))
   (PartMRUSelector
+    (AD8072
+      (FullPartName "AD8072.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\AMPLIFIER.OLB")
+      (DeviceIndex "1"))
+    (stm32f103RC
+      (FullPartName "stm32f103RCB.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "1"))
     (MicroSDCard
       (FullPartName "MicroSDCard.Normal")
       (LibraryName
@@ -70,4 +87,6 @@
          "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "kon")
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library"))
