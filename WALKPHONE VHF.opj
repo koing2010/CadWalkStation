@@ -26,7 +26,7 @@
          "Design Cache")
       (Select "Design Resources"
          "e:\my jinan doc\bj reference doc\walkphoneref\cadwalkephonev4\walkphone vhf.dsn"
-         "Design Cache"))
+         "walkphone VHF.SchDoc" "PowerControl"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -36,26 +36,31 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1625 52 525")
-        (Scroll "-177 -2")
-        (Zoom "35")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1435 156 629")
+        (Scroll "0 944")
+        (Zoom "90")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
       (Schematic "walkphone VHF.SchDoc")
-      (Page "PowerControl"))
+      (Page "walkphone VHF.SchDoc"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1435 156 629")
-        (Scroll "1534 1511")
-        (Zoom "136")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1651 78 551")
+        (Scroll "2716 1795")
+        (Zoom "132")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\WALKPHONEREF\CADWALKEPHONEV4\WALKPHONE VHF.DSN")
       (Schematic "walkphone VHF.SchDoc")
-      (Page "walkphone VHF.SchDoc")))
+      (Page "PowerControl")))
   (PartMRUSelector
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (AD8072
       (FullPartName "AD8072.Normal")
       (LibraryName
